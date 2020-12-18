@@ -3,8 +3,6 @@
 Testar att utföra uppgifterna i Advent of Code för tredje gången.
 Uppehåll förra året, får se hur det går i år.
 
-Tror det blir shell script eller python i år, försöka utnyttja bibliotek som jag inte kände till förra året.
-
 
 [Advent of Code 2020](http://adventofcode.com/2020)
 
